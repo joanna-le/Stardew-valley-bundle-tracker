@@ -15,3 +15,5 @@ This tool lets Stardew Valley players:
 - Save progress locally through the bundles.json file
 
 This app makes completing the Community Centre easier, clearer, and far less overwhelming for new or casual players.
+
+Link: http://localhost:8501/ 

@@ -1,0 +1,1409 @@
+{
+  "Crafts Room": {
+    "Spring Foraging Bundle": {
+      "items": {
+        "Wild Horseradish": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Foraging in Spring, Spring Seeds",
+          "icon": "images/wild_horseradish.png"
+        },
+        "Daffodil": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Foraging in Spring, Spring Seeds",
+          "icon": "images/daffodil.png"
+        },
+        "Leek": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Foraging in Spring, Spring Seeds",
+          "icon": "images/leek.png"
+        },
+        "Dandelion": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Foraging in Spring, Spring Seeds",
+          "icon": "images/dandelion.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Summer Foraging Bundle": {
+      "items": {
+        "Grape": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Foraging in Summer, Summer Seeds",
+          "icon": "images/grape.png"
+        },
+        "Spice Berry": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Foraging in Summer, Summer Seeds",
+          "icon": "images/spice_berry.png"
+        },
+        "Sweet Pea": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Foraging in Summer, Summer Seeds",
+          "icon": "images/sweet_pea.png"
+        }
+      },
+      "required_count": 3
+    },
+    "Fall Foraging Bundle": {
+      "items": {
+        "Common Mushroom": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Foraging in Fall, Fall Seeds",
+          "icon": "images/common_mushroom.png"
+        },
+        "Wild Plum": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Foraging in Fall, Fall Seeds",
+          "icon": "images/wild_plum_.png"
+        },
+        "Hazelnut": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Foraging in Fall, Fall Seeds",
+          "icon": "images/hazelnut.png"
+        },
+        "Blackberry": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Foraging in Fall, Fall Seeds",
+          "icon": "images/blackberry_.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Winter Foraging Bundle": {
+      "items": {
+        "Winter Root": {
+          "collected": false,
+          "seasons": [
+            "Winter"
+          ],
+          "source": "Foraging in Winter, Winter Seeds",
+          "icon": "images/winter_root.png"
+        },
+        "Crystal Fruit": {
+          "collected": false,
+          "seasons": [
+            "Winter"
+          ],
+          "source": "Foraging in Winter, Winter Seeds",
+          "icon": "images/crystal_fruit.png"
+        },
+        "Snow Yam": {
+          "collected": false,
+          "seasons": [
+            "Winter"
+          ],
+          "source": "Foraging in Winter, Winter Seeds",
+          "icon": "images/snow_yam_.png"
+        },
+        "Crocus": {
+          "collected": false,
+          "seasons": [
+            "Winter"
+          ],
+          "source": "Foraging in Winter, Winter Seeds",
+          "icon": "images/crocus.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Construction Bundle": {
+      "items": {
+        "99 Wood": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Chopping trees",
+          "icon": "images/99_wood.png"
+        },
+        "99 Stone": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Mining",
+          "icon": "images/99_stone.png"
+        },
+        "10 Hardwood": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Chopping large stumps with an upgraded axe, Breaking crates in the mines",
+          "icon": "images/10_hardwood.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Exotic Foraging Bundle": {
+      "items": {
+        "Coconut": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging in the Desert",
+          "icon": "images/coconut.png"
+        },
+        "Cactus Fruit": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging in the Desert",
+          "icon": "images/cactus_fruit.png"
+        },
+        "Cave Carrot": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crates in the Mines, Tilling soil in the Mines",
+          "icon": "images/cave_carrot.png"
+        },
+        "Red Mushroom": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log",
+          "icon": "images/red_mushroom.png"
+        },
+        "Purple Mushroom": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log",
+          "icon": "images/purple_mushroom_.png"
+        },
+        "Maple Syrup": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Tapper on Maple Trees",
+          "icon": "images/maple_syrup_.png"
+        },
+        "Oak resin": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Tapper on Pines Trees",
+          "icon": "images/oak_resin_.png"
+        },
+        "Pine Tar": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Tapper on Oak Trees",
+          "icon": "images/pine_tar.png"
+        },
+        "Morel": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Foraging in the Secret Woods in Spring, Farm Cave (Mushroom Cave Option), Mushroom Log",
+          "icon": "images/morel_.png"
+        }
+      },
+      "required_count": 5
+    }
+  },
+  "Pantry": {
+    "Spring Crops Bundle": {
+      "items": {
+        "Parsnip": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Pierre’s General Store: 20g",
+          "icon": "images/parsnip.png"
+        },
+        "Green Bean": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Pierre’s General Store: 60g",
+          "icon": "images/green_bean.png"
+        },
+        "Cauliflower": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Pierre’s General Store: 80g",
+          "icon": "images/cauliflower.png"
+        },
+        "Potato": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Pierre’s General Store: 50g",
+          "icon": "images/potato.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Summer Crops Bundle": {
+      "items": {
+        "Tomato": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre’s General Store: 50g",
+          "icon": "images/tomato.png"
+        },
+        "Hot Pepper": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre’s General Store: 40g",
+          "icon": "images/hot_pepper.png"
+        },
+        "Blueberry": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre’s General Store: 80g",
+          "icon": "images/blueberry.png"
+        },
+        "Melon": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre’s General Store: 80g",
+          "icon": "images/melon.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Fall Crops Bundle": {
+      "items": {
+        "Corn": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Pierre’s General Store: 150g",
+          "icon": "images/corn.png"
+        },
+        "Eggplant": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Pierre’s General Store: 20g",
+          "icon": "images/eggplant.png"
+        },
+        "Pumpkin": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Pierre’s General Store: 100g",
+          "icon": "images/pumpkin.png"
+        },
+        "Yam": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Pierre’s General Store: 60g",
+          "icon": "images/yam.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Quality Crops Bundle": {
+      "items": {
+        "5 Gold Quality Parsnip": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Gold Quality Spring Crops",
+          "icon": "images/5_gold_quality_parsnip.png"
+        },
+        "5 Gold Quality Melon": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Gold Quality Summer Crops",
+          "icon": "images/5_gold_quality_melon.png"
+        },
+        "5 Gold Quality Pumpkin": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Gold Quality Fall Crops",
+          "icon": "images/5_gold_quality_pumpkin.png"
+        },
+        "5 Gold Quality Corn": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Gold Quality Summer/Fall Crops",
+          "icon": "images/5_gold_quality_corn.png"
+        }
+      },
+      "required_count": 3
+    },
+    "Animal Bundle": {
+      "items": {
+        "Large Milk": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Using Milk Pail (Marnie's Ranch: 1000g) on Cow (Marnie's Ranch: 1500g)",
+          "icon": "images/large_milk.png"
+        },
+        "Large Brown Egg": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Brown Chickens (Marnie's Ranch: 800g)",
+          "icon": "images/large_brown_egg.png"
+        },
+        "Large White Egg": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "White Chickens (Marnie's Ranch: 800g)",
+          "icon": "images/large_white_egg.png"
+        },
+        "Large Goat Milk": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Using Milk Pail (Marnie's Ranch: 1000g) on Goat (Marnie's Ranch: 4000g)",
+          "icon": "images/large_goat_milk.png"
+        },
+        "Wool": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Using Shears (Marnie's Ranch: 1000g) on Sheep (Marnie's Ranch: 8000g), Rabbit (Marnie's Ranch: 8000g),",
+          "icon": "images/wool.png"
+        },
+        "Duck Egg": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Duck (Marnie's Ranch: 1200g)",
+          "icon": "images/duck_egg.png"
+        }
+      },
+      "required_count": 5
+    },
+    "Artisan Bundle": {
+      "items": {
+        "Cloth": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Placing Wool (Shearing Sheep, Rabbits) in the Loom (Crafting: 60 Wood, 30 Fiber, 1 Pine Tar)",
+          "icon": "images/cloth.png"
+        },
+        "Truffle Oil": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Placing Truffles (Spawned by Pigs) in an Oil Maker (Crafting: 50 Slime, 20 Hardwood, 1 Gold Bar)",
+          "icon": "images/truffle_oil.png"
+        },
+        "Goat Cheese": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Placing Goat Milk in Cheese Press (Crafting: 45 Wood, 45 Stone, 10 Hardwood, 1 Copper Bar)",
+          "icon": "images/goat_cheese.png"
+        },
+        "Cheese": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Placing Milk in Cheese Press (Crafting: 45 Wood, 45 Stone, 10 Hardwood, 1 Copper Bar)",
+          "icon": "images/cheese.png"
+        },
+        "Honey": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+          ],
+          "source": "Bee House (Crafting: 40 Wood, 8 Coal, 1 Iron Bar, 1 Maple Syrup)",
+          "icon": "images/honey.png"
+        },
+        "Jelly": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Any Fruit in Preserves Jar (Crafting: 50 Wood, 40 Stone, 8 Coal)",
+          "icon": "images/jelly.png"
+        },
+        "Apple": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Apple Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option)",
+          "icon": "images/apple.png"
+        },
+        "Apricot": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Apricot Trees (Sapling from Pierre's General Store: 2000g) during Spring, Farm Cave (Fruit Bat Option)",
+          "icon": "images/apricot.png"
+        },
+        "Orange": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Orange Trees (Sapling from Pierre's General Store: 4000g) during Summer, Farm Cave (Fruit Bat Option)",
+          "icon": "images/orange.png"
+        },
+        "Peach": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Peach Trees (Sapling from Pierre's General Store: 6000g) during Summer, Farm Cave (Fruit Bat Option)",
+          "icon": "images/peach.png"
+        },
+        "Pomegranate": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Pomegranate Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option)",
+          "icon": "images/pomegranate.png"
+        },
+        "Cherry": {
+          "collected": false,
+          "seasons": [
+            "Spring"
+          ],
+          "source": "Cherry Trees (Sapling from Pierre's General Store: 3400g) during Spring, Farm Cave (Fruit Bat Option)",
+          "icon": "images/cherry.png"
+        }
+      },
+      "required_count": 6
+    }
+  },
+  "Fish Tank": {
+    "River Fish Bundle": {
+      "items": {
+        "Sunfish": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer"
+          ],
+          "source": "Rivers | 6 am - 7 pm | Spring and Summer | Weather: Sunny",
+          "icon": "images/sunfish.png"
+        },
+        "Catfish": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Fall"
+          ],
+          "source": "Rivers and Secret Woods | 6 am - 12 am | Spring and Fall | Weather: Raining",
+          "icon": "images/catfish.png"
+        },
+        "Shad": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+          ],
+          "source": "Rivers | 9 am - 2 am | Spring, Summer, and Fall | Weather: Raining",
+          "icon": "images/shad.png"
+        },
+        "Tiger Trout": {
+          "collected": false,
+          "seasons": [
+            "Fall",
+            "Winter"
+          ],
+          "source": "Rivers | 6 am - 7 pm | Fall and Winter | Weather: Sunny",
+          "icon": "images/tiger_trout.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Lake Fish Bundle": {
+      "items": {
+        "Largemouth Bass": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Mountain Lake | 6 am - 7 pm | All Seasons",
+          "icon": "images/largemouth_bass.png"
+        },
+        "Carp": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+          ],
+          "source": "Mountain Lake | Anytime | Spring, Summer, Fall OR Secret Woods | Anytime | All Seasons",
+          "icon": "images/carp.png"
+        },
+        "Bullhead": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Mountain Lake | Anytime | All Seasons",
+          "icon": "images/bullhead.png"
+        },
+        "Sturgeon": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Winter"
+          ],
+          "source": "Mountain Lake | 6 am - 7 pm | Summer and Winter",
+          "icon": "images/sturgeon.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Ocean Fish Bundle": {
+      "items": {
+        "Sardine": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Winter"
+          ],
+          "source": "Ocean | 6 am - 7 pm | Spring, Fall, and Winter",
+          "icon": "images/sardine.png"
+        },
+        "Tuna": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Winter"
+          ],
+          "source": "Ocean | 6 am - 7 pm | Summer and Winter",
+          "icon": "images/tuna.png"
+        },
+        "Red Snapper": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Ocean | 6 am - 7 pm | Summer and Fall | Weather: Raining",
+          "icon": "images/red_snapper.png"
+        },
+        "Tilapia": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Ocean | 6 am - 2 pm | Summer and Fall",
+          "icon": "images/tilapia.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Night Fishing Bundle": {
+      "items": {
+        "Walleye": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Rivers, Mountain Lake, Cindersap Forest Pond | 12 pm - 2 am | Fall | Weather: Raining",
+          "icon": "images/walleye.png"
+        },
+        "Bream": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Rivers | 6 pm - 2 am | All Seasons",
+          "icon": "images/bream.png"
+        },
+        "Eel": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Fall"
+          ],
+          "source": "Ocean | 4 pm - 2 am | Spring and Fall | Weather: Raining",
+          "icon": "images/eel.png"
+        }
+      },
+      "required_count": 3
+    },
+    "Crab Pot Bundle": {
+      "items": {
+        "Lobster": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean",
+          "icon": "images/lobster.png"
+        },
+        "Crayfish": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Freshwater",
+          "icon": "images/crayfish.png"
+        },
+        "Crab": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean, drop from Rock Crabs (Floors: 1-29) or Lava Crabs (Floors 81-119) in The Mines",
+          "icon": "images/crab.png"
+        },
+        "Cockle": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean, Beach Foraging",
+          "icon": "images/cockle.png"
+        },
+        "Mussel": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean, Beach Foraging",
+          "icon": "images/mussel.png"
+        },
+        "Shrimp": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean",
+          "icon": "images/shrimp.png"
+        },
+        "Snail": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Freshwater",
+          "icon": "images/snail.png"
+        },
+        "Periwinkle": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Freshwater",
+          "icon": "images/periwinkle.png"
+        },
+        "Oyster": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean, Beach Foraging",
+          "icon": "images/oyster.png"
+        },
+        "Clam": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Crab Pots in Ocean, Beach Foraging",
+          "icon": "images/clam_.png"
+        }
+      },
+      "required_count": 5
+    },
+    "Specialty Fish Bundle": {
+      "items": {
+        "Pufferfish": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Ocean | 12 pm - 4 pm | Summer | Weather: Sunny",
+          "icon": "images/pufferfish.png"
+        },
+        "Ghostfish": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Ponds in The Mines (Floors 20 and 60) | Anytime | All Seasons | Dropped by Ghosts in The Mines (Floors 51-79)",
+          "icon": "images/ghostfish.png"
+        },
+        "Sandfish": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Pond in the Desert | 6 am - 8 pm| All Seasons",
+          "icon": "images/sandfish.png"
+        },
+        "Woodskip": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Secret Woods and Forest Farm | Anytime | All Seasons",
+          "icon": "images/woodskip.png"
+        }
+      },
+      "required_count": 4
+    }
+  },
+  "Boiler Room": {
+    "Blacksmith's Bundle": {
+      "items": {
+        "Copper Bar": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Smelting Copper Ore (The Mines: Floors 2-39) in the Furnace (Crafting: 25 Stone, 20 Copper Ore)",
+          "icon": "images/copper_bar.png"
+        },
+        "Iron Bar": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Smelting Iron Ore (The Mines: Floors 41-79) in the Furnace (Crafting: 25 Stone, 20 Copper Ore)",
+          "icon": "images/iron_bar.png"
+        },
+        "Gold Bar": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Smelting Gold Ore (The Mines: Floors 80+) in the Furnace (Crafting: 25 Stone, 20 Copper Ore)",
+          "icon": "images/gold_bar.png"
+        }
+      },
+      "required_count": 3
+    },
+    "Geologist's Bundle": {
+      "items": {
+        "Quartz": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging on all floors of The Mines",
+          "icon": "images/quartz.png"
+        },
+        "Earth Crystal": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging on Floors 1-39 of The Mines",
+          "icon": "images/earth_crystal.png"
+        },
+        "Frozen Tear": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging on Floors 41-79 of The Mines, Frozen Geodes (Floors 41-79) and Omni Geodes (Floors 21+) from the Mines",
+          "icon": "images/frozen_tear.png"
+        },
+        "Fire Quartz": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging on Floors 81-119 of The Mines",
+          "icon": "images/fire_quartz.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Adventurer's Bundle": {
+      "items": {
+        "99 Slime": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Dropped by Slimes in The Mines, Quarry Mines and Secret Woods",
+          "icon": "images/99_slime.png"
+        },
+        "10 Bat Wing": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Dropped by Bats in The Mines (Floors 31+)",
+          "icon": "images/10_bat_wing.png"
+        },
+        "Solar Essence": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Dropped by Ghosts (Floors 51-79), Metal Heads (80-119), and Squid Kids (Floors 91-119) in The Mines",
+          "icon": "images/solar_essence.png"
+        },
+        "Void Essence": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Dropped by Shadow Brutes and Shadow Shamans (Floors 81 - 119) in The Mines",
+          "icon": "images/void_essence_.png"
+        }
+      },
+      "required_count": 2
+    }
+  },
+  "Bulletin Board": {
+    "Chef's Bundle": {
+      "items": {
+        "Maple Syrup": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Tapper on Maple Trees",
+          "icon": "images/maple_syrup_.png"
+        },
+        "Fiddlehead Fern": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Foraging in Secret Woods during Summer",
+          "icon": "images/fiddlehead_fern.png"
+        },
+        "Truffle": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall"
+          ],
+          "source": "Spawned when Pigs (Marnie's Ranch: 16000g) are outside the Barn on the Farm",
+          "icon": "images/truffle.png"
+        },
+        "Poppy": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre's General Store: 100g",
+          "icon": "images/poppy.png"
+        },
+        "Maki Roll": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Cooking: 1 of Any Fish, 1 Seaweed, 1 Rice | Recipe from The Queen of Sauce 21 Summer, Year 1 or Stardrop Saloon: 300g",
+          "icon": "images/maki_roll.png"
+        },
+        "Fried Egg": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Cooking: 1 Egg",
+          "icon": "images/fried_egg.png"
+        }
+      },
+      "required_count": 6
+    },
+    "Dye Bundle": {
+      "items": {
+        "Red Mushroom": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log",
+          "icon": "images/red_mushroom.png"
+        },
+        "Sea Urchin": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Beach Foraging after using 300 wood to fix the bridge to the right side of The Beach",
+          "icon": "images/sea_urchin_.png"
+        },
+        "Sunflower": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Pierre's General Store: 200g, JojaMart: 125g",
+          "icon": "images/sunflower.png"
+        },
+        "Duck Feather": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Dropped by Ducks (Marnie's Ranch: 1200g)",
+          "icon": "images/duck_feather.png"
+        },
+        "Aquamarine": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Aquamarine Nodes (in the Mines (Floors 40+ or any floor after reaching the bottom of the Mines)",
+          "icon": "images/aquamarine.png"
+        },
+        "Red Cabbage": {
+          "collected": false,
+          "seasons": [
+            "Summer"
+          ],
+          "source": "Pierre's General Store: 100g (Year 2+), Travelling Cart Occassionally",
+          "icon": "images/red_cabbage_.png"
+        }
+      },
+      "required_count": 6
+    },
+    "Field Research Bundle": {
+      "items": {
+        "Purple Mushroom": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log",
+          "icon": "images/purple_mushroom_.png"
+        },
+        "Nautilus Shell": {
+          "collected": false,
+          "seasons": [
+            "Winter"
+          ],
+          "source": "Winter Beach Foraging, Random gift from Demetrius",
+          "icon": "images/nautilus_shell.png"
+        },
+        "Chub": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Mountain Lake and River | Anytime | All Seasons",
+          "icon": "images/chub.png"
+        },
+        "Frozen Geode": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Frozen Geode from The Mines (Floors 41-79)",
+          "icon": "images/frozen_geode_.png"
+        }
+      },
+      "required_count": 4
+    },
+    "Fodder Bundle": {
+      "items": {
+        "10 Wheat": {
+          "collected": false,
+          "seasons": [
+            "Summer",
+            "Fall"
+          ],
+          "source": "Pierre's General Store: 10g",
+          "icon": "images/10_wheat.png"
+        },
+        "10 Hay": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Harvest from Wheat (Pierre's General Store: 10g), Harvest from Grass with Silo (Carpenter's Shop: 100 Stone, 10 Clay, 5 Copper Bar)",
+          "icon": "images/10_hay.png"
+        },
+        "3 Apple": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Apple Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option)",
+          "icon": "images/3_apple.png"
+        }
+      },
+      "required_count": 3
+    },
+    "Enchanter's Bundle": {
+      "items": {
+        "Oak Resin": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Tapper on Pines Trees",
+          "icon": "images/oak_resin_.png"
+        },
+        "Wine": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Any Fruit in Keg (Crafting: 30 Wood, 1 Copper Bar, 1 Iron Bar, 1 Oak Resin)",
+          "icon": "images/wine.png"
+        },
+        "Rabbit's Foot": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "Rabbit (Marnie's Ranch: 8000g)",
+          "icon": "images/rabbit's_foot.png"
+        },
+        "Pomegranate": {
+          "collected": false,
+          "seasons": [
+            "Fall"
+          ],
+          "source": "Pomegranate Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option)",
+          "icon": "images/pomegranate.png"
+        }
+      },
+      "required_count": 4
+    }
+  },
+  "Vault": {
+    "2500 Bundle": {
+      "items": {
+        "2,500 Gold": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "",
+          "icon": "images/2,500_gold.png"
+        }
+      },
+      "required_count": 1
+    },
+    "5000 Bundle": {
+      "items": {
+        "5,000 Gold": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "",
+          "icon": "images/5,000_gold.png"
+        }
+      },
+      "required_count": 1
+    },
+    "10000 Bundle": {
+      "items": {
+        "10,000 Gold": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "",
+          "icon": "images/10,000_gold.png"
+        }
+      },
+      "required_count": 1
+    },
+    "25000 Bundle": {
+      "items": {
+        "25,000 Gold": {
+          "collected": false,
+          "seasons": [
+            "Spring",
+            "Summer",
+            "Fall",
+            "Winter"
+          ],
+          "source": "",
+          "icon": "images/25,000_gold.png"
+        }
+      },
+      "required_count": 1
+    }
+  }
+}

@@ -1,0 +1,130 @@
+Area,Bundle Name,Item Name,Seasons,Source,Collected,Image Path,Required Count
+Crafts Room ,Spring Foraging Bundle,Wild Horseradish,Spring,"Foraging in Spring, Spring Seeds",FALSE,images/wild_horseradish.png,4
+Crafts Room ,Spring Foraging Bundle,Daffodil,Spring,"Foraging in Spring, Spring Seeds",FALSE,images/daffodil.png,4
+Crafts Room ,Spring Foraging Bundle,Leek,Spring,"Foraging in Spring, Spring Seeds",FALSE,images/leek.png,4
+Crafts Room ,Spring Foraging Bundle,Dandelion,Spring,"Foraging in Spring, Spring Seeds",FALSE,images/dandelion.png,4
+Crafts Room ,Summer Foraging Bundle,Grape,Summer,"Foraging in Summer, Summer Seeds",FALSE,images/grape.png,3
+Crafts Room ,Summer Foraging Bundle,Spice Berry,Summer,"Foraging in Summer, Summer Seeds",FALSE,images/spice_berry.png,3
+Crafts Room ,Summer Foraging Bundle,Sweet Pea,Summer,"Foraging in Summer, Summer Seeds",FALSE,images/sweet_pea.png,3
+Crafts Room ,Fall Foraging Bundle,Common Mushroom,Fall,"Foraging in Fall, Fall Seeds",FALSE,images/common_mushroom.png,4
+Crafts Room ,Fall Foraging Bundle,Wild Plum ,Fall,"Foraging in Fall, Fall Seeds",FALSE,images/wild_plum_.png,4
+Crafts Room ,Fall Foraging Bundle,Hazelnut,Fall,"Foraging in Fall, Fall Seeds",FALSE,images/hazelnut.png,4
+Crafts Room ,Fall Foraging Bundle,Blackberry ,Fall,"Foraging in Fall, Fall Seeds",FALSE,images/blackberry_.png,4
+Crafts Room ,Winter Foraging Bundle,Winter Root,Winter,"Foraging in Winter, Winter Seeds",FALSE,images/winter_root.png,4
+Crafts Room ,Winter Foraging Bundle,Crystal Fruit,Winter,"Foraging in Winter, Winter Seeds",FALSE,images/crystal_fruit.png,4
+Crafts Room ,Winter Foraging Bundle,Snow Yam ,Winter,"Foraging in Winter, Winter Seeds",FALSE,images/snow_yam_.png,4
+Crafts Room ,Winter Foraging Bundle,Crocus,Winter,"Foraging in Winter, Winter Seeds",FALSE,images/crocus.png,4
+Crafts Room ,Construction Bundle,99 Wood ,"Spring, Summer, Fall, Winter",Chopping trees,FALSE,images/99_wood_.png,4
+Crafts Room ,Construction Bundle,99 Wood,"Spring, Summer, Fall, Winter",Chopping trees,FALSE,images/99_wood.png,4
+Crafts Room ,Construction Bundle,99 Stone,"Spring, Summer, Fall, Winter",Mining ,FALSE,images/99_stone.png,4
+Crafts Room ,Construction Bundle,10 Hardwood,"Spring, Summer, Fall, Winter","Chopping large stumps with an upgraded axe, Breaking crates in the mines",FALSE,images/10_hardwood.png,4
+Crafts Room ,Exotic Foraging Bundle,Coconut,"Spring, Summer, Fall, Winter",Foraging in the Desert,FALSE,images/coconut.png,5
+Crafts Room ,Exotic Foraging Bundle,Cactus Fruit,"Spring, Summer, Fall, Winter",Foraging in the Desert,FALSE,images/cactus_fruit.png,5
+Crafts Room ,Exotic Foraging Bundle,Cave Carrot,"Spring, Summer, Fall, Winter","Crates in the Mines, Tilling soil in the Mines ",FALSE,images/cave_carrot.png,5
+Crafts Room ,Exotic Foraging Bundle,Red Mushroom,"Spring, Summer, Fall, Winter","Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log ",FALSE,images/red_mushroom.png,5
+Crafts Room ,Exotic Foraging Bundle,Purple Mushroom ,"Spring, Summer, Fall, Winter","Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log ",FALSE,images/purple_mushroom_.png,5
+Crafts Room ,Exotic Foraging Bundle,Maple Syrup ,"Spring, Summer, Fall, Winter",Tapper on Maple Trees,FALSE,images/maple_syrup_.png,5
+Crafts Room ,Exotic Foraging Bundle,Oak resin ,"Spring, Summer, Fall, Winter",Tapper on Pines Trees,FALSE,images/oak_resin_.png,5
+Crafts Room ,Exotic Foraging Bundle,Pine Tar,"Spring, Summer, Fall, Winter",Tapper on Oak Trees,FALSE,images/pine_tar.png,5
+Crafts Room ,Exotic Foraging Bundle,Morel ,Spring,"Foraging in the Secret Woods in Spring, Farm Cave (Mushroom Cave Option), Mushroom Log",FALSE,images/morel_.png,5
+Pantry,Spring Crops Bundle,Parsnip,Spring,Pierre’s General Store: 20g,FALSE,images/parsnip.png,4
+Pantry,Spring Crops Bundle,Green Bean,Spring,Pierre’s General Store: 60g,FALSE,images/green_bean.png,4
+Pantry,Spring Crops Bundle,Cauliflower,Spring,Pierre’s General Store: 80g,FALSE,images/cauliflower.png,4
+Pantry,Spring Crops Bundle,Potato,Spring,Pierre’s General Store: 50g,FALSE,images/potato.png,4
+Pantry,Summer Crops Bundle,Tomato,Summer,Pierre’s General Store: 50g,FALSE,images/tomato.png,4
+Pantry,Summer Crops Bundle,Hot Pepper,Summer,Pierre’s General Store: 40g,FALSE,images/hot_pepper.png,4
+Pantry,Summer Crops Bundle,Blueberry,Summer,Pierre’s General Store: 80g ,FALSE,images/blueberry.png,4
+Pantry,Summer Crops Bundle,Melon,Summer,Pierre’s General Store: 80g,FALSE,images/melon.png,4
+Pantry,Fall Crops Bundle,Corn,"Summer, Fall",Pierre’s General Store: 150g,FALSE,images/corn.png,4
+Pantry,Fall Crops Bundle,Eggplant,Fall,Pierre’s General Store: 20g,FALSE,images/eggplant.png,4
+Pantry,Fall Crops Bundle,Pumpkin,Fall,Pierre’s General Store: 100g,FALSE,images/pumpkin.png,4
+Pantry,Fall Crops Bundle,Yam,Fall,Pierre’s General Store: 60g,FALSE,images/yam.png,4
+Pantry,Quality Crops Bundle,5 Gold Quality Parsnip,Spring,Gold Quality Spring Crops ,FALSE,images/5_gold_quality_parsnip.png,3
+Pantry,Quality Crops Bundle,5 Gold Quality Melon,Summer,Gold Quality Summer Crops ,FALSE,images/5_gold_quality_melon.png,3
+Pantry,Quality Crops Bundle,5 Gold Quality Pumpkin,Fall,Gold Quality Fall Crops ,FALSE,images/5_gold_quality_pumpkin.png,3
+Pantry,Quality Crops Bundle,5 Gold Quality Corn,"Summer, Fall",Gold Quality Summer/Fall Crops ,FALSE,images/5_gold_quality_corn.png,3
+Pantry,Animal Bundle,Large Milk,"Spring, Summer, Fall, Winter",Using Milk Pail (Marnie's Ranch: 1000g) on Cow (Marnie's Ranch: 1500g) ,FALSE,images/large_milk.png,5
+Pantry,Animal Bundle,Large Brown Egg,"Spring, Summer, Fall, Winter",Brown Chickens (Marnie's Ranch: 800g),FALSE,images/large_brown_egg.png,5
+Pantry,Animal Bundle,Large White Egg,"Spring, Summer, Fall, Winter",White Chickens (Marnie's Ranch: 800g),FALSE,images/large_white_egg.png,5
+Pantry,Animal Bundle,Large Goat Milk,"Spring, Summer, Fall, Winter",Using Milk Pail (Marnie's Ranch: 1000g) on Goat (Marnie's Ranch: 4000g) ,FALSE,images/large_goat_milk.png,5
+Pantry,Animal Bundle,Wool,"Spring, Summer, Fall, Winter","Using Shears (Marnie's Ranch: 1000g) on Sheep (Marnie's Ranch: 8000g), Rabbit (Marnie's Ranch: 8000g), ",FALSE,images/wool.png,5
+Pantry,Animal Bundle,Duck Egg,"Spring, Summer, Fall, Winter",Duck (Marnie's Ranch: 1200g) ,FALSE,images/duck_egg.png,5
+Pantry,Artisan Bundle,Cloth,"Spring, Summer, Fall, Winter","Placing Wool (Shearing Sheep, Rabbits) in the Loom (Crafting: 60 Wood, 30 Fiber, 1 Pine Tar) ",FALSE,images/cloth.png,6
+Pantry,Artisan Bundle,Truffle Oil,"Spring, Summer, Fall, Winter","Placing Truffles (Spawned by Pigs) in an Oil Maker (Crafting: 50 Slime, 20 Hardwood, 1 Gold Bar) ",FALSE,images/truffle_oil.png,6
+Pantry,Artisan Bundle,Goat Cheese,"Spring, Summer, Fall, Winter","Placing Goat Milk in Cheese Press (Crafting: 45 Wood, 45 Stone, 10 Hardwood, 1 Copper Bar) ",FALSE,images/goat_cheese.png,6
+Pantry,Artisan Bundle,Cheese,"Spring, Summer, Fall, Winter","Placing Milk in Cheese Press (Crafting: 45 Wood, 45 Stone, 10 Hardwood, 1 Copper Bar) ",FALSE,images/cheese.png,6
+Pantry,Artisan Bundle,Honey,"Spring, Summer, Fall","Bee House (Crafting: 40 Wood, 8 Coal, 1 Iron Bar, 1 Maple Syrup) ",FALSE,images/honey.png,6
+Pantry,Artisan Bundle,Jelly,"Spring, Summer, Fall, Winter","Any Fruit in Preserves Jar (Crafting: 50 Wood, 40 Stone, 8 Coal) ",FALSE,images/jelly.png,6
+Pantry,Artisan Bundle,Apple,Fall,"Apple Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option) ",FALSE,images/apple.png,6
+Pantry,Artisan Bundle,Apricot,Spring,"Apricot Trees (Sapling from Pierre's General Store: 2000g) during Spring, Farm Cave (Fruit Bat Option) ",FALSE,images/apricot.png,6
+Pantry,Artisan Bundle,Orange,Summer,"Orange Trees (Sapling from Pierre's General Store: 4000g) during Summer, Farm Cave (Fruit Bat Option) ",FALSE,images/orange.png,6
+Pantry,Artisan Bundle,Peach,Summer,"Peach Trees (Sapling from Pierre's General Store: 6000g) during Summer, Farm Cave (Fruit Bat Option) ",FALSE,images/peach.png,6
+Pantry,Artisan Bundle,Pomegranate,Fall,"Pomegranate Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option) ",FALSE,images/pomegranate.png,6
+Pantry,Artisan Bundle,Cherry,Spring ,"Cherry Trees (Sapling from Pierre's General Store: 3400g) during Spring, Farm Cave (Fruit Bat Option) ",FALSE,images/cherry.png,6
+Fish Tank,River Fish Bundle,Sunfish,"Spring, Summer",Rivers | 6 am - 7 pm | Spring and Summer | Weather: Sunny ,FALSE,images/sunfish.png,4
+Fish Tank,River Fish Bundle,Catfish,"Spring, Fall",Rivers and Secret Woods | 6 am - 12 am | Spring and Fall | Weather: Raining ,FALSE,images/catfish.png,4
+Fish Tank,River Fish Bundle,Shad,"Spring, Summer, Fall","Rivers | 9 am - 2 am | Spring, Summer, and Fall | Weather: Raining ",FALSE,images/shad.png,4
+Fish Tank,River Fish Bundle,Tiger Trout,"Fall, Winter",Rivers | 6 am - 7 pm | Fall and Winter | Weather: Sunny,FALSE,images/tiger_trout.png,4
+Fish Tank,Lake Fish Bundle,Largemouth Bass,"Spring, Summer, Fall, Winter",Mountain Lake | 6 am - 7 pm | All Seasons ,FALSE,images/largemouth_bass.png,4
+Fish Tank,Lake Fish Bundle,Carp,"Spring, Summer, Fall","Mountain Lake | Anytime | Spring, Summer, Fall OR Secret Woods | Anytime | All Seasons ",FALSE,images/carp.png,4
+Fish Tank,Lake Fish Bundle,Bullhead,"Spring, Summer, Fall, Winter",Mountain Lake | Anytime | All Seasons ,FALSE,images/bullhead.png,4
+Fish Tank,Lake Fish Bundle,Sturgeon,"Summer, Winter",Mountain Lake | 6 am - 7 pm | Summer and Winter ,FALSE,images/sturgeon.png,4
+Fish Tank,Ocean Fish Bundle,Sardine,"Spring, Summer, Winter","Ocean | 6 am - 7 pm | Spring, Fall, and Winter ",FALSE,images/sardine.png,4
+Fish Tank,Ocean Fish Bundle,Tuna,"Summer, Winter",Ocean | 6 am - 7 pm | Summer and Winter ,FALSE,images/tuna.png,4
+Fish Tank,Ocean Fish Bundle,Red Snapper,"Summer, Fall",Ocean | 6 am - 7 pm | Summer and Fall | Weather: Raining ,FALSE,images/red_snapper.png,4
+Fish Tank,Ocean Fish Bundle,Tilapia,"Summer, Fall",Ocean | 6 am - 2 pm | Summer and Fall,FALSE,images/tilapia.png,4
+Fish Tank,Night Fishing Bundle,Walleye,Fall,"Rivers, Mountain Lake, Cindersap Forest Pond | 12 pm - 2 am | Fall | Weather: Raining ",FALSE,images/walleye.png,3
+Fish Tank,Night Fishing Bundle,Bream,"Spring, Summer, Fall, Winter",Rivers | 6 pm - 2 am | All Seasons,FALSE,images/bream.png,3
+Fish Tank,Night Fishing Bundle,Eel,"Spring, Fall",Ocean | 4 pm - 2 am | Spring and Fall | Weather: Raining ,FALSE,images/eel.png,3
+Fish Tank,Crab Pot Bundle,Lobster,"Spring, Summer, Fall, Winter",Crab Pots in Ocean ,FALSE,images/lobster.png,5
+Fish Tank,Crab Pot Bundle,Crayfish,"Spring, Summer, Fall, Winter",Crab Pots in Freshwater,FALSE,images/crayfish.png,5
+Fish Tank,Crab Pot Bundle,Crab,"Spring, Summer, Fall, Winter","Crab Pots in Ocean, drop from Rock Crabs (Floors: 1-29) or Lava Crabs (Floors 81-119) in The Mines ",FALSE,images/crab.png,5
+Fish Tank,Crab Pot Bundle,Cockle,"Spring, Summer, Fall, Winter","Crab Pots in Ocean, Beach Foraging ",FALSE,images/cockle.png,5
+Fish Tank,Crab Pot Bundle,Mussel,"Spring, Summer, Fall, Winter","Crab Pots in Ocean, Beach Foraging ",FALSE,images/mussel.png,5
+Fish Tank,Crab Pot Bundle,Shrimp,"Spring, Summer, Fall, Winter",Crab Pots in Ocean ,FALSE,images/shrimp.png,5
+Fish Tank,Crab Pot Bundle,Snail,"Spring, Summer, Fall, Winter",Crab Pots in Freshwater,FALSE,images/snail.png,5
+Fish Tank,Crab Pot Bundle,Periwinkle,"Spring, Summer, Fall, Winter",Crab Pots in Freshwater,FALSE,images/periwinkle.png,5
+Fish Tank,Crab Pot Bundle,Oyster,"Spring, Summer, Fall, Winter","Crab Pots in Ocean, Beach Foraging ",FALSE,images/oyster.png,5
+Fish Tank,Crab Pot Bundle,Clam ,"Spring, Summer, Fall, Winter","Crab Pots in Ocean, Beach Foraging ",FALSE,images/clam_.png,5
+Fish Tank,Specialty Fish Bundle,Pufferfish,Summer,Ocean | 12 pm - 4 pm | Summer | Weather: Sunny,FALSE,images/pufferfish.png,4
+Fish Tank,Specialty Fish Bundle,Ghostfish,"Spring, Summer, Fall, Winter",Ponds in The Mines (Floors 20 and 60) | Anytime | All Seasons | Dropped by Ghosts in The Mines (Floors 51-79) ,FALSE,images/ghostfish.png,4
+Fish Tank,Specialty Fish Bundle,Sandfish,"Spring, Summer, Fall, Winter",Pond in the Desert | 6 am - 8 pm| All Seasons,FALSE,images/sandfish.png,4
+Fish Tank,Specialty Fish Bundle,Woodskip,"Spring, Summer, Fall, Winter",Secret Woods and Forest Farm | Anytime | All Seasons,FALSE,images/woodskip.png,4
+Boiler Room,Blacksmith's Bundle,Copper Bar,"Spring, Summer, Fall, Winter","Smelting Copper Ore (The Mines: Floors 2-39) in the Furnace (Crafting: 25 Stone, 20 Copper Ore) ",FALSE,images/copper_bar.png,3
+Boiler Room,Blacksmith's Bundle,Iron Bar,"Spring, Summer, Fall, Winter","Smelting Iron Ore (The Mines: Floors 41-79) in the Furnace (Crafting: 25 Stone, 20 Copper Ore) ",FALSE,images/iron_bar.png,3
+Boiler Room,Blacksmith's Bundle,Gold Bar,"Spring, Summer, Fall, Winter","Smelting Gold Ore (The Mines: Floors 80+) in the Furnace (Crafting: 25 Stone, 20 Copper Ore) ",FALSE,images/gold_bar.png,3
+Boiler Room,Geologist's Bundle,Quartz,"Spring, Summer, Fall, Winter",Foraging on all floors of The Mines ,FALSE,images/quartz.png,4
+Boiler Room,Geologist's Bundle,Earth Crystal,"Spring, Summer, Fall, Winter",Foraging on Floors 1-39 of The Mines,FALSE,images/earth_crystal.png,4
+Boiler Room,Geologist's Bundle,Frozen Tear,"Spring, Summer, Fall, Winter","Foraging on Floors 41-79 of The Mines, Frozen Geodes (Floors 41-79) and Omni Geodes (Floors 21+) from the Mines",FALSE,images/frozen_tear.png,4
+Boiler Room,Geologist's Bundle,Fire Quartz,"Spring, Summer, Fall, Winter",Foraging on Floors 81-119 of The Mines ,FALSE,images/fire_quartz.png,4
+Boiler Room,Adventurer's Bundle,99 Slime,"Spring, Summer, Fall, Winter","Dropped by Slimes in The Mines, Quarry Mines and Secret Woods",FALSE,images/99_slime.png,2
+Boiler Room,Adventurer's Bundle,10 Bat Wing,"Spring, Summer, Fall, Winter",Dropped by Bats in The Mines (Floors 31+) ,FALSE,images/10_bat_wing.png,2
+Boiler Room,Adventurer's Bundle,Solar Essence,"Spring, Summer, Fall, Winter","Dropped by Ghosts (Floors 51-79), Metal Heads (80-119), and Squid Kids (Floors 91-119) in The Mines ",FALSE,images/solar_essence.png,2
+Boiler Room,Adventurer's Bundle,Void Essence ,"Spring, Summer, Fall, Winter",Dropped by Shadow Brutes and Shadow Shamans (Floors 81 - 119) in The Mines ,FALSE,images/void_essence_.png,2
+Bulletin Board,Chef's Bundle,Maple Syrup ,"Spring, Summer, Fall, Winter",Tapper on Maple Trees,FALSE,images/maple_syrup_.png,6
+Bulletin Board,Chef's Bundle,Fiddlehead Fern,Summer,Foraging in Secret Woods during Summer,FALSE,images/fiddlehead_fern.png,6
+Bulletin Board,Chef's Bundle,Truffle,"Spring, Summer, Fall",Spawned when Pigs (Marnie's Ranch: 16000g) are outside the Barn on the Farm ,FALSE,images/truffle.png,6
+Bulletin Board,Chef's Bundle,Poppy,Summer,Pierre's General Store: 100g,FALSE,images/poppy.png,6
+Bulletin Board,Chef's Bundle,Maki Roll,"Spring, Summer, Fall, Winter","Cooking: 1 of Any Fish, 1 Seaweed, 1 Rice | Recipe from The Queen of Sauce 21 Summer, Year 1 or Stardrop Saloon: 300g",FALSE,images/maki_roll.png,6
+Bulletin Board,Chef's Bundle,Fried Egg,"Spring, Summer, Fall, Winter",Cooking: 1 Egg,FALSE,images/fried_egg.png,6
+Bulletin Board,Dye Bundle,Red Mushroom,"Summer, Fall","Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log ",FALSE,images/red_mushroom.png,6
+Bulletin Board,Dye Bundle,Sea Urchin ,"Spring, Summer, Fall, Winter",Beach Foraging after using 300 wood to fix the bridge to the right side of The Beach ,FALSE,images/sea_urchin_.png,6
+Bulletin Board,Dye Bundle,Sunflower,"Summer, Fall","Pierre's General Store: 200g, JojaMart: 125g",FALSE,images/sunflower.png,6
+Bulletin Board,Dye Bundle,Duck Feather,"Spring, Summer, Fall, Winter",Dropped by Ducks (Marnie's Ranch: 1200g) ,FALSE,images/duck_feather.png,6
+Bulletin Board,Dye Bundle,Aquamarine,"Spring, Summer, Fall, Winter",Aquamarine Nodes (in the Mines (Floors 40+ or any floor after reaching the bottom of the Mines),FALSE,images/aquamarine.png,6
+Bulletin Board,Dye Bundle,Red Cabbage ,Summer,"Pierre's General Store: 100g (Year 2+), Travelling Cart Occassionally ",FALSE,images/red_cabbage_.png,6
+Bulletin Board,Field Research Bundle,Purple Mushroom ,"Spring, Summer, Fall, Winter","Foraging in the Mines (Floor 81+), Farm Cave (Mushroom Cave Option), Mushroom Log ",FALSE,images/purple_mushroom_.png,4
+Bulletin Board,Field Research Bundle,Nautilus Shell,Winter,"Winter Beach Foraging, Random gift from Demetrius",FALSE,images/nautilus_shell.png,4
+Bulletin Board,Field Research Bundle,Chub,"Spring, Summer, Fall, Winter",Mountain Lake and River | Anytime | All Seasons,FALSE,images/chub.png,4
+Bulletin Board,Field Research Bundle,Frozen Geode ,"Spring, Summer, Fall, Winter",Frozen Geode from The Mines (Floors 41-79) ,FALSE,images/frozen_geode_.png,4
+Bulletin Board,Fodder Bundle,10 Wheat,"Summer, Fall",Pierre's General Store: 10g ,FALSE,images/10_wheat.png,3
+Bulletin Board,Fodder Bundle,10 Hay,"Spring, Summer, Fall, Winter","Harvest from Wheat (Pierre's General Store: 10g), Harvest from Grass with Silo (Carpenter's Shop: 100 Stone, 10 Clay, 5 Copper Bar) ",FALSE,images/10_hay.png,3
+Bulletin Board,Fodder Bundle,3 Apple,Fall,"Apple Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option) ",FALSE,images/3_apple.png,3
+Bulletin Board,Enchanter's Bundle,Oak Resin ,"Spring, Summer, Fall, Winter",Tapper on Pines Trees,FALSE,images/oak_resin_.png,4
+Bulletin Board,Enchanter's Bundle,Wine,"Spring, Summer, Fall, Winter","Any Fruit in Keg (Crafting: 30 Wood, 1 Copper Bar, 1 Iron Bar, 1 Oak Resin) ",FALSE,images/wine.png,4
+Bulletin Board,Enchanter's Bundle,Rabbit's Foot,"Spring, Summer, Fall, Winter",Rabbit (Marnie's Ranch: 8000g) ,FALSE,images/rabbit's_foot.png,4
+Bulletin Board,Enchanter's Bundle,Pomegranate,Fall,"Pomegranate Trees (Sapling from Pierre's General Store: 4000g) during Fall, Farm Cave (Fruit Bat Option) ",FALSE,images/pomegranate.png,4
+Vault ,2500 Bundle,"2,500 Gold","Spring, Summer, Fall, Winter",,FALSE,"images/2,500_gold.png",1
+Vault ,5000 Bundle,"5,000 Gold","Spring, Summer, Fall, Winter",,FALSE,"images/5,000_gold.png",1
+Vault ,10000 Bundle,"10,000 Gold","Spring, Summer, Fall, Winter",,FALSE,"images/10,000_gold.png",1
+Vault ,25000 Bundle,"25,000 Gold","Spring, Summer, Fall, Winter",,FALSE,"images/25,000_gold.png",1
